@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn, 
 Feel free to reach out, collaborate, or just say hi! 😊
 
 📧 Email:justin.mendez.mena@est.una.ac.cr
-🔗LinkedIn: [@LinkedIn](https://www.linkedin.com/in/justin-m%C3%A9ndez-564088352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrlnCFrfaT1m2J4KSwcGWSA%3D%3D)  
+🔗LinkedIn: [@JustinMdz](https://www.linkedin.com/in/justin-m%C3%A9ndez-564088352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrlnCFrfaT1m2J4KSwcGWSA%3D%3D)  
 
 ---
 
