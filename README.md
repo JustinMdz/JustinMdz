@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn, 
 ---
 
 ## 📚 Recent Projects
-- **[Project 1](https://github.com/AleLeonMarin/Sokoban):** A copy game of the custom sokoban
-- **[Project 2](https://github.com/JustinMdz/Etch-A-Sketch):** A Paint designed in assembler, allows your imagination to come to the surface. Add images, save them and load them locally.
-- **[Project 3](https://github.com/JustinMdz/TareaCooperativaKid):** Emulates an interactive cooperative for children
+- **[Sokoban](https://github.com/AleLeonMarin/Sokoban):** A copy game of the custom sokoban
+- **[Etch a sketch](https://github.com/JustinMdz/Etch-A-Sketch):** A Paint designed in assembler, allows your imagination to come to the surface. Add images, save them and load them locally.
+- **[CooperativaKid](https://github.com/JustinMdz/TareaCooperativaKid):** Emulates an interactive cooperative for children
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn, 
 Feel free to reach out, collaborate, or just say hi! 😊
 
 📧 Email:justin.mendez.mena@est.una.ac.cr
-🔗LinkedIn: [@your-linkedin-handle](https://www.linkedin.com/in/justin-m%C3%A9ndez-564088352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrlnCFrfaT1m2J4KSwcGWSA%3D%3D)  
+🔗LinkedIn: [@LinkedIn](https://www.linkedin.com/in/justin-m%C3%A9ndez-564088352?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrlnCFrfaT1m2J4KSwcGWSA%3D%3D)  
 
 ---
 
