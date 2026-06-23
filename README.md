@@ -196,6 +196,9 @@ A custom implementation of the classic Sokoban puzzle game.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
+## 🏅 Badges
+
+[![Microsoft Learn Badge](badge.png)](https://learn.microsoft.com/api/achievements/share/en-us/JustinMndez-1845/8V2PDZYW?sharingId=2CEBCE061A0EC4CB)
 
 <div align="center">
 
